@@ -13,7 +13,9 @@ Exposed REST endpoints using springboot for the following mathematical calculati
   /percentile - given list of numbers and quantifier 'q', compute the qth percentile of the list elements
   
   Technologies used:
+  
     Spring Boot 2.7.2
+    
     Java 11
     
     
